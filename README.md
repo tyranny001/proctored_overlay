@@ -82,3 +82,6 @@ Run the executable:
 
 ```text
 layerx by Ravi.exe
+```
+
+# For further details check the guide in repo.
